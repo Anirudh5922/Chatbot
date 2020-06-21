@@ -1,0 +1,8 @@
+scikit-learn
+tensorflow
+tensorlayer
+numpy
+click
+tqdm
+nltk
+tkinter
